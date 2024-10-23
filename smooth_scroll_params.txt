@@ -1,0 +1,3 @@
+general.smoothScroll.currentVelocityWeighting 1 general.smoothScroll.msdPhysics.continuousMotionMaxDeltaMS 12 general.smoothScroll.msdPhysics.enabled true general.smoothScroll.msdPhysics.motionBeginSpringConstant 600 general.smoothScroll.msdPhysics.regularSpringConstant 250 general.smoothScroll.msdPhysics.slowdownMinDeltaMS 25 general.smoothScroll.msdPhysics.slowdownMinDeltaRatio 0.3 general.smoothScroll.msdPhysics.slowdownSpringConstant 250 general.smoothScroll.stopDecelerationWeighting 1.0
+
+mousewheel.default.delta_multiplier_y 200 
